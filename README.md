@@ -7,7 +7,13 @@
 
 ## 📌 Main Project
 
+<br>
 
+<a href="https://github.com/SuperDrBacon/KirkBot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&repo=KirkBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 ## Other Projects
 
@@ -45,7 +51,7 @@
 <summary>More Skills</summary>
 <br>
   
-Didnt bother adding more
+Didn't bother adding more
   
 <br>
 </details>
