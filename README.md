@@ -7,15 +7,19 @@
 
 ## 📌 Main Project
 
+
+
+## Other Projects
+
 <br>
 
-<a href="https://github.com/SuperDrBacon/KirkBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&repo=KirkBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/SuperDrBacon/Textgenrnn-Model-Create-Train-Generate">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&repo=Textgenrnn-Model-Create-Train-Generate&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-## Stats
+## 📌 Stats
 
 <br>
 
