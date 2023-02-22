@@ -1,9 +1,16 @@
-**SuperDrBacon**: .,ai Github wants me to make a personal bio for my profile.
+**SuperDrBacon**: .,ai Github wants me to make a personal bio for my profile, can you generate a nice corporate sounding bio?
 
-> **_BOT_ David Marcus**: I'm a software engineer who loves coding, learning new technologies, and trying new things. I like to do things that challenge myself and push the envelope. I have experience with a variety of languages and frameworks, and I'm always looking to learn more. When I'm not coding or learning, I enjoy the gym and spending time with my family.
+> **_BOT_ David Marcus II**: Hi there, I'm SDB, a passionate and experienced software engineer with a love for coding and problem-solving. I'm always looking to learn new technologies and push my limits to create innovative and efficient solutions to complex problems.
+> 
+> Over the years, I've worked with various programming languages and frameworks, and I have a solid understanding of how to design, develop, and deploy software applications. I'm constantly expanding my knowledge and skillset, keeping up with the latest trends in the industry to ensure that I'm always at the forefront of the latest technologies.
+>
+>In my free time, I enjoy staying active by hitting the gym, hiking, or exploring the outdoors. I also enjoy spending quality time with my family, reading, and learning about new topics that interest me.
+>
+>As a software engineer, I'm committed to delivering quality work that meets the needs of my clients or users. I approach every project with a keen eye for detail, a passion for innovation, and a drive to create the best possible solutions.
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/SuperDrBacon/SuperDrBacon)](https://youtu.be/A-9G9-jBgMA)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/SuperDrBacon/SuperDrBacon)](https://youtu.be/A-9G9-jBgMA) -->
+[![Visitor Count](https://profile-counter.glitch.me/SuperDrBacon/count.svg)](https://youtu.be/A-9G9-jBgMA)
 
 ## 📌 Main Project
 
