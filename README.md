@@ -1,6 +1,6 @@
 **SuperDrBacon**: .,ai Github wants me to make a personal bio for my profile, can you generate a nice corporate sounding bio?
 
-> **_BOT_ David Marcus II**: Hi there, I'm SDB, a passionate and experienced software engineer with a love for coding and problem-solving. I'm always looking to learn new technologies and push my limits to create innovative and efficient solutions to complex problems.
+> **_BOT_ KirkBot**: Hi there, I'm SDB, a passionate and experienced software engineer with a love for coding and problem-solving. I'm always looking to learn new technologies and push my limits to create innovative and efficient solutions to complex problems.
 > 
 > Over the years, I've worked with various programming languages and frameworks, and I have a solid understanding of how to design, develop, and deploy software applications. I'm constantly expanding my knowledge and skillset, keeping up with the latest trends in the industry to ensure that I'm always at the forefront of the latest technologies.
 >
