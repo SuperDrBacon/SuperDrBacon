@@ -14,41 +14,24 @@
 
 ## 📌 Main Project
 
-<br>
-
-<a href="https://github.com/SuperDrBacon/KirkBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&repo=KirkBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
+![](https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&theme=tokyonight&repo=KirkBot)
 
 ## Other Projects
 
-<br>
-
-<a href="https://github.com/SuperDrBacon/Textgenrnn-Model-Create-Train-Generate">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&repo=Textgenrnn-Model-Create-Train-Generate&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
+![](https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&theme=tokyonight&repo=Textgenrnn-Model-Create-Train-Generate)
 
 ## 📌 Stats
 
-<br>
-
-<a href="https://github.com/SuperDrBacon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDrBacon&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/SuperDrBacon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SuperDrBacon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="SDB's GitHub Stats" />
-</a>
-
-<br>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDrBacon&theme=tokyonight) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuperDrBacon&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuperDrBacon&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuperDrBacon&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuperDrBacon&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuperDrBacon&theme=tokyonight)
 
 ## 📌 Skillz
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDrBacon&theme=tokyonight)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
