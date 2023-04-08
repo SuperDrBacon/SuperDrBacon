@@ -14,11 +14,11 @@
 
 ## 📌 Main Project
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&theme=tokyonight&repo=KirkBot)
+[![Main project repo](https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&theme=tokyonight&repo=KirkBot)](https://github.com/SuperDrBacon/KirkBot)
 
 ## Other Projects
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&theme=tokyonight&repo=Textgenrnn-Model-Create-Train-Generate)
+[![Other repo](https://github-readme-stats.vercel.app/api/pin/?username=SuperDrBacon&theme=tokyonight&repo=Textgenrnn-Model-Create-Train-Generate)](https://github.com/SuperDrBacon/Textgenrnn-Model-Create-Train-Generate)
 
 ## 📌 Stats
 
